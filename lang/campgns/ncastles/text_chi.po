@@ -53,7 +53,7 @@ msgid ""
 "hats. This must be the place. Perhaps you should have a word with them about "
 "their fashion sense. It would probably be a good idea to raise a small army, "
 "first."
-msgstr "传说故事中，在这座城堡里，充满戴着滑稽帽子的疯狂骑士，却没有一名守护者。"
+msgstr "哦，守护者，传说故事中，在这座城堡里，到处都是戴着滑稽帽子的疯狂骑士。"
 "就是这里。你应该跟这些毫无时尚品味的家伙好好谈一谈。先开始建立一支军队或许是个"
 "不错的注意。"
 
@@ -79,12 +79,12 @@ msgstr "我希望你没有听过传说故事中对这些饿鬼的描写。"
 #: guitext:7
 msgctxt "In-game message"
 msgid "Having fun?"
-msgstr "你觉得有意思吗？"
+msgstr "有意思吗？"
 
 #: guitext:8
 msgctxt "In-game message"
 msgid "Do you hear something stirring, Keeper? Tin cans?"
-msgstr "你听见什么东西的声音了吗，守护者？像是铁罐子？"
+msgstr "你听见什么东西搅动的声音了吗，守护者？像是铁罐子？"
 
 #: guitext:9
 msgctxt "In-game message"
@@ -201,7 +201,7 @@ msgctxt "In-game message"
 msgid ""
 "Er, Keeper? There's some Monks here to see you about last year's Tax Return. "
 "I think they want money."
-msgstr "嘿，守护者？这里有几个僧侣来向你讨要去年的税款。这些家伙就是馋你的钱。"
+msgstr "嘿，守护者？这里有几个僧侣来向你讨要去年的税款。我想这些家伙就是馋你的钱。"
 
 #: guitext:24
 msgctxt "In-game message"
@@ -264,7 +264,7 @@ msgctxt "In-game message"
 msgid ""
 "Attention, shoppers: please beware of the mad, rampaging vampires in section "
 "Seven Blue."
-msgstr "“顾客请注意：小心七区正在疯狂暴走的吸血鬼。”"
+msgstr "“顾客请注意：请小心七区正在疯狂暴走的吸血鬼。”"
 
 #: guitext:33
 msgctxt "In-game message"
@@ -278,8 +278,8 @@ msgctxt "In-game message"
 msgid ""
 "This castle is very well-defended: a group of heroes is sent forth every pay-"
 "day, to beat up Keepers. Do be careful now, won't you?"
-msgstr "这座城堡固若金汤，而且英雄们每一个发薪日都会派遣一波部队来进攻守护者。"
-"一定要万分小心，不是吗，守护者？"
+msgstr "这座城堡固若金汤：英雄们每一个发薪日都会派遣一波部队来进攻守护者。"
+"现在一定要小心，不是吗，守护者？"
 
 #: guitext:35
 msgctxt "In-game message"
